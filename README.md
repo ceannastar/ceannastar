@@ -19,6 +19,8 @@ Icons: https://simpleicons.org/
 <code><img height="32" src="https://avatars.mds.yandex.net/get-entity_search/58808/261054429/S114x114FitScale_2x" alt="Python"/></code>
 <code><img height="32" src="https://avatars.mds.yandex.net/get-entity_search/5499684/551843440/S600xU" alt="JS"/></code>
 <code><img height="32" src="https://avatars.mds.yandex.net/get-entity_search/372208/829562043/S600xU" alt="CSharp"/></code>
+<code><img height="32" src="https://avatars.mds.yandex.net/get-entity_search/5448661/551822131/S600xU" alt="HTML"/></code>
+<code><img height="32" src="https://avatars.mds.yandex.net/get-entity_search/2077223/1018598292/S600xU" alt="CSS"/></code>
 <code><img height="32" src="https://repository-images.githubusercontent.com/882204607/d30bd94d-d64a-41f8-8cd4-dceb3f01d415" alt="C/C++"/></code>
 
 
