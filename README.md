@@ -8,9 +8,9 @@
 <h2>Languages</h2>
 
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/flat-file-types-1-1/300/asm-512.png" alt="assembly"/></code>
-<code><img height="32" src="https://w7.pngwing.com/pngs/253/990/png-transparent-vuejs-vuejs-logo-company-logo-logo-programming-langugae-coding-language-3d-icon.png" alt="Docker"/></code>
-<code><img height="32" src="https://w7.pngwing.com/pngs/203/252/png-transparent-python-javascript-programming-language-c-others-angle-text-logo.png" alt="Python"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/C-Sharp_Logo.svg/1822px-C-Sharp_Logo.svg.png" alt="CSharp"/></code>
+<code><img height="32" src="https://avatars.mds.yandex.net/get-entity_search/5448661/551830822/S600xU" alt="vueJS"/></code>
+<code><img height="32" src="https://avatars.mds.yandex.net/get-entity_search/58808/261054429/S114x114FitScale_2x" alt="Python"/></code>
+<code><img height="32" src="https://avatars.mds.yandex.net/get-entity_search/372208/829562043/S600xU" alt="CSharp"/></code>
 <code><img height="32" src="https://repository-images.githubusercontent.com/882204607/d30bd94d-d64a-41f8-8cd4-dceb3f01d415" alt="C/C++"/></code>
 
 
