@@ -7,7 +7,7 @@ Icons: https://simpleicons.org/
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <br></br>
-  Fullstack programmer
+  <h2 align="center">Fullstack programmer</h2>
 <br></br>
 
 <h1 align="center"> My Development Stack </h1>
