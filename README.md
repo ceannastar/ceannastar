@@ -19,5 +19,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
 <code><img height="40" src="https://avatars.mds.yandex.net/get-entity_search/7761650/685292615/S114x114FitScale_2x" alt="PortSwigger"/></code>
 <code><img height="32" src="https://avatars.mds.yandex.net/get-entity_search/5509992/554586332/S600xU" alt="Postman"/></code>
+<code><img height="32" src="https://avatars.mds.yandex.net/get-entity_search/2331707/505207604/S114x114FitScale_2x" alt="K8s"/></code>
 <code><img height="32" src="https://avatars.mds.yandex.net/get-entity_search/2269087/908689566/S600xU" alt="Firebase"/></code>
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
