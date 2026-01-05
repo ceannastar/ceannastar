@@ -3,4 +3,4 @@
 
 <br></br>
 
-## My Development Stack
+<h1 align="center"> My Development Stack </h1>
