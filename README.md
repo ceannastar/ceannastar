@@ -8,6 +8,7 @@ Icons: https://simpleicons.org/
 
 <br></br>
   <a align="center">Fullstack programmer</a>
+  <a align="center">Lottie animations creator</a>
 <br></br>
 
 <h1 align="center"> My Development Stack </h1>
