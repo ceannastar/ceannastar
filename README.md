@@ -7,7 +7,7 @@ Icons: https://simpleicons.org/
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <br></br>
-  <a align="center">Fullstack programmer</a>
+  <a align="center">Fullstack programmer</a> <br></br>
   <a align="center">Lottie animations creator</a>
 <br></br>
 
