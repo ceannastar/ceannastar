@@ -8,7 +8,7 @@ Icons: https://simpleicons.org/
 
 <br></br>
   <a align="center">Fullstack programmer</a> <br></br>
-  <a align="center">Lottie animations creator</a>
+  <a align="center">Create some lottie animations</a>
 <br></br>
 
 <br></br>
